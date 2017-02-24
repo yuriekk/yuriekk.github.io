@@ -1,0 +1,9 @@
+
+@media (max-width: 1125px) {
+	#stage{ width: 150%; }
+}
+
+@media (max-width: 750px) {
+	#stage{ width: 200%;  }
+}
+
